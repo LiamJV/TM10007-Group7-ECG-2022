@@ -9,7 +9,7 @@ a random forest and a support vector machine classifier on the provided ECG
 dataset.
 
 By group 7:
-Cile van Holthe,     C.C.vanHolthe@student.tudelft.nl 
-Jop Schneijdenberg,  J.W.Schneijdenberg@student.tudelft.nl 
-Arya Baban,          A.Baban@student.tudelft.nl 
-Jordan Verburg,      J.W.Verburg@student.tudelft.nl 
+[] Cile van Holthe,     C.C.vanHolthe@student.tudelft.nl 
+[] Jop Schneijdenberg,  J.W.Schneijdenberg@student.tudelft.nl 
+[] Arya Baban,          A.Baban@student.tudelft.nl 
+[] Jordan Verburg,      J.W.Verburg@student.tudelft.nl 
