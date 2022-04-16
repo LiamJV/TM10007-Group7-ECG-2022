@@ -1,5 +1,5 @@
 # TM10007-Group7-ECG-2022
-The ECG assignment as made by group 7 for the TM10007 machine learning course of year 2022.
+The ECG assignment as made by group 7 for the TM10007 machine learning course of year 2021-2022.
 
 Version 1.0
 
